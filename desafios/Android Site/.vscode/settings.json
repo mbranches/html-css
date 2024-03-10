@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "Android Site"
+    "liveServer.settings.multiRootWorkspaceName": "Android Site",
+    "liveServer.settings.port": 5501
 }
